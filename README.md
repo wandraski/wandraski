@@ -76,10 +76,9 @@ Se você também está começando ou já tem experiência, vamos trocar ideias! 
 
 ---
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&color=2E8B57&center=true&vCenter=true&width=435&lines=Estou+aprendendo+um+pouco+todo+dia.;+Pequenos+passos+levam+a+grandes+resultados.;" alt="typing svg" />
+<div align="center" style="margin-top: 20px; padding: 10px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&color=2E8B57&center=true&vCenter=true&width=500&lines=Estou+aprendendo+um+pouco+todo+dia;Pequenos+passos+levam+a+grandes+resultados;" alt="typing svg" />
 </div>
-
 <!--
 **wandraski/wandraski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
