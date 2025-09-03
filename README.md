@@ -64,15 +64,6 @@ Atualmente estou:
 
 ---
 
-## 🤝 Vamos conversar!
-
-Estou sempre aberto a:
-- Dicas de estudo
-- Projetos colaborativos simples
-- Feedback sobre código
-- Recomendações de trilhas de aprendizado
-
-Se você também está começando ou já tem experiência, vamos trocar ideias! 🤓
 
 ---
 
